@@ -1,0 +1,8 @@
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\bin\Debug\TP7.exe.config
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\bin\Debug\TP7.exe
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\bin\Debug\TP7.pdb
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\obj\Debug\TP7.csproj.AssemblyReference.cache
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\obj\Debug\TP7.csproj.SuggestedBindingRedirects.cache
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\obj\Debug\TP7.csproj.CoreCompileInputs.cache
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\obj\Debug\TP7.exe
+C:\Users\lelir\Downloads\ED2I4\TP7\TP7\obj\Debug\TP7.pdb
