@@ -1,0 +1,8 @@
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\bin\Debug\TP9.exe.config
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\bin\Debug\TP9.exe
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\bin\Debug\TP9.pdb
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\obj\Debug\TP9.csproj.AssemblyReference.cache
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\obj\Debug\TP9.csproj.SuggestedBindingRedirects.cache
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\obj\Debug\TP9.csproj.CoreCompileInputs.cache
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\obj\Debug\TP9.exe
+C:\Users\lelir\Downloads\ED2I4\TP9\TP9\obj\Debug\TP9.pdb

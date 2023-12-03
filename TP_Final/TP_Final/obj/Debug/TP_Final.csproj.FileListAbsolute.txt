@@ -1,0 +1,8 @@
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\bin\Debug\TP_Final.exe.config
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\bin\Debug\TP_Final.exe
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\bin\Debug\TP_Final.pdb
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\obj\Debug\TP_Final.csproj.AssemblyReference.cache
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\obj\Debug\TP_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\obj\Debug\TP_Final.csproj.CoreCompileInputs.cache
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\obj\Debug\TP_Final.exe
+C:\Users\lelir\Downloads\ED2I4\TP_Final\TP_Final\obj\Debug\TP_Final.pdb
